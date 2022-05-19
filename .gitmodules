@@ -1,0 +1,3 @@
+[submodule "src/www"]
+	path = src/www
+	url = https://github.com/phucharm/FE-WWW.git
